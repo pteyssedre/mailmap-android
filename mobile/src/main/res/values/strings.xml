@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailMap</string>
+    <string name="title_mail_detail">mail Detail</string>
+    <string name="email_address">email</string>
+    <string name="email_password">password</string>
+    <string name="mail_sender_icon">Sender Icon</string>
+</resources>
